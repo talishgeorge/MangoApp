@@ -1,4 +1,5 @@
 ﻿using Mango.Services.ProductAPI.Models;
+using Mango.Services.ProductAPI.Models.Dto;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using Microsoft.EntityFrameworkCore;
 
