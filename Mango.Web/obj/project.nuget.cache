@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dXdhRbAJQC5AJDfQwZmfgjg4KpITXQIPsfdbckFhqASgYDAnm7b4jpWzqvrwn5s038ZsegULAdw4K1z2YDcsyQ==",
+  "dgSpecHash": "hQ9i/hjFw3QjuxcfC18EUcr+bCLTVTX+UvjdyE4B+A1mervPwa0vjunSifNZKXesjOTOchmNeFNbd8eS3JcE/A==",
   "success": true,
   "projectFilePath": "C:\\DotNet\\MangoRest\\MangoApp\\Mango.Web\\Mango.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Talish George\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
   "logs": []
 }
