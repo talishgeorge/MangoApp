@@ -11,7 +11,7 @@ build_property.RootNamespace = Mango.Web
 build_property.ProjectDir = C:\DotNet\MangoRest\MangoApp\Mango.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\DotNet\MangoRest\MangoApp\Mango.Web
 build_property._RazorSourceGeneratorDebug = 
 
@@ -21,6 +21,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/DotNet/MangoRest/MangoApp/Mango.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DotNet/MangoRest/MangoApp/Mango.Web/Views/Product/ProductCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DotNet/MangoRest/MangoApp/Mango.Web/Views/Product/ProductDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DotNet/MangoRest/MangoApp/Mango.Web/Views/Product/ProductEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/DotNet/MangoRest/MangoApp/Mango.Web/Views/Product/ProductIndex.cshtml]

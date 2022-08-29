@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OqoXF/cMteGbCEf1aXd65Z1q5FTXwuugqrd1qlAEPw0m7/YwdAqEbM6ioFcB8YW1BKNAuZ32Gr454p8MHKoZSQ==",
+  "dgSpecHash": "OfkBUTaxHRY/cpDpz2sLHhb5JZQ6ZRfWtMcFlyDXsqTk+EYTrx9RcplIdeG16/wXXZFV0SmezhqzhjpMonGqDA==",
   "success": true,
   "projectFilePath": "C:\\DotNet\\MangoRest\\MangoApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
   "expectedPackageFiles": [
